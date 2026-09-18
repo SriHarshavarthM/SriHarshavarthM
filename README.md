@@ -59,23 +59,23 @@
 ---
 
 ### 🚀 Production & Flagship Builds
+### 🚀 Production & Flagship Builds
 
-* #### 🚨 [Accident Incident Responder](https://github.com/SriHarshavarthM)
+* #### 🚨 [Accident Incident Responder](https://github.com/SriHarshavarthM/Accident-Incident-Responder)
   Autonomous computer vision pipeline detecting roadway accidents from CCTV feeds in real time and triggering automated emergency dispatch protocols.  
   `YOLOv8` `FastAPI` `React` `OpenCV`
 
-* #### ⚡ [On-Device Neural Vision Engine](https://github.com/SriHarshavarthM)
+* #### ⚡ [On-Device Neural Vision Engine](https://github.com/SriHarshavarthM/edge-neural-vision)
   Low-latency neural network edge inference system designed for optimized on-device hardware accelerators, featuring model quantization and real-time pipelines.  
   `Python` `Edge AI` `NPU Acceleration` `TensorRT`
 
-* #### 🛡️ [DisputeGuard AI](https://github.com/SriHarshavarthM)
+* #### 🛡️ [DisputeGuard AI](https://github.com/SriHarshavarthM/DisputeGuard-AI)
   Agentic financial risk automation built to ingest payment disputes, aggregate ledger evidence via vector search, and compile defensible chargeback packets.  
   `Python` `FastAPI` `RAG` `Vector DB`
 
-* #### 🌐 [Network Packet Analyzer & Sockets](https://github.com/SriHarshavarthM)
+* #### 🌐 [Network Packet Analyzer & Sockets](https://github.com/SriHarshavarthM/network-packet-analyzer)
   Low-level network telemetry and socket utilities built to inspect packet headers, trace payload traffic, and monitor active interface bottlenecks.  
   `C++` `Python` `Sockets` `Linux POSIX`
-
 ---
 
 ### 📈 Contribution Activity
