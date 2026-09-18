@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Sri Harsha Varthan</h1>
+  <h1>Sri Harshavarth M</h1>
 
   <!-- Developer Quote Banner -->
   <p>
